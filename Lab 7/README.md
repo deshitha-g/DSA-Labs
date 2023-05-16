@@ -1,4 +1,4 @@
-# DSA-In-Class-Lab-7
+# DSA-Lab-7
 
 Exercise: 
 
