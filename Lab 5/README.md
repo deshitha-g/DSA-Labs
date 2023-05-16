@@ -1,4 +1,4 @@
-# DSA-In-Class-Lab-5
+# DSA-Lab-5
 
 Question 1:
 
